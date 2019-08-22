@@ -22,7 +22,7 @@ if ($key === false) {
 $utilisateur = $utilisateurs[$key];
 
 
-require_once 'user_single.php';
+require_once 'template\user_single.php';
 
 
 
