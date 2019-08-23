@@ -7,7 +7,9 @@
     </p>
 
     <p>
-        <input class='btn-primary' type="submit" value="Envoyer" />
+        <div class="bouton">
+            <input class='btn btn-primary' type="submit" value="Envoyer" />
+        </div>
     </p>
 
 </form>

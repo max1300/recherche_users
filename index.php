@@ -5,8 +5,8 @@
         <h1>ACCUEIL</h1>
         
         <ul>
-            <li><a href="http://localhost/recherche_user/recherche.php">Rechercher</a></li>
-            <li><a href="http://localhost/recherche_user/users.php">Visualiser</a></li>
+            <li><a class="btn btn-success btn-lg" role="button" href="http://localhost/recherche_user/recherche.php">Rechercher</a></li>
+            <li><a class="btn btn-success btn-lg" role="button" href="http://localhost/recherche_user/users.php">Visualiser</a></li>
         </ul>
     
     </div>
